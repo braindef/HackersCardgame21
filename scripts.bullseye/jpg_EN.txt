@@ -1,3 +1,5 @@
+../png/EN/m50.png
+../png/EN/m100.png
 ../png/EN/m110.png
 ../png/EN/m147.png
 ../png/EN/m109.png
