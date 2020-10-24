@@ -1,6 +1,8 @@
 ../png/EN/m50.png
 ../png/EN/m100.png
+../png/EN/t47.png
 ../png/EN/m110.png
 ../png/EN/m147.png
 ../png/EN/m109.png
+../png/EN/m164.png
 ../png/EN/m137.png
