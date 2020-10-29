@@ -31,7 +31,7 @@
       <path
          id="path6154"
          d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         style="fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1;fill:#ff0000;fill-opacity:1"
+         style="fill-rule:evenodd;stroke:#ffff00;stroke-width:1pt;stroke-opacity:1;fill:#ffff00;fill-opacity:1"
          transform="scale(0.4) rotate(180) translate(10,0)" />
     </marker>
     <clipPath
@@ -61,11 +61,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="12.401306"
-     inkscape:cx="69.651184"
-     inkscape:cy="307.1785"
+     inkscape:zoom="2.1922619"
+     inkscape:cx="58.528945"
+     inkscape:cy="187.64161"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer24"
+     inkscape:current-layer="layer26"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
@@ -2173,23 +2173,17 @@ TkSuQmCC
    style="font-weight:bold;fill:#ff0000"
    id="flowSpan5917">they know when you are AFK</flowSpan> (in my case: eye1,m98,m99,t1,t41,...,dynamic)</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara5672">Older People and Zombie Stage outside shall induce fear, after a while i have a PTSD, hid youreself in your apartement, technically: b1&amp;&amp;t1 outside stage. They blame the victims with &quot;hahaha, paranoid&quot;</flowPara><flowPara
+         id="flowPara5672">Older People and Zombie Stage outside shall induce fear, after a while i have a PTSD, so i hide  myeself more in your apartement, more isolated, technically: b1&amp;&amp;t1 outside stage. They blame the victims with &quot;hahaha, paranoid&quot;</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara5194">Symbols:</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara6034"></flowPara><flowPara
-         style="text-align:justify;text-anchor:start"
-         id="flowPara6049">On Linux Terminal we could use <flowSpan
-   style="font-weight:bold"
-   id="flowSpan5190"></flowSpan></flowPara><flowPara
+         id="flowPara6049">On Linux Terminal we could use </flowPara><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara6039"><flowSpan
    style="font-weight:bold"
    id="flowSpan6041">UniCode</flowSpan> &amp; <flowSpan
    style="font-weight:bold"
-   id="flowSpan5192">emoji's</flowSpan>. <flowSpan
-   style="font-weight:bold"
-   id="flowSpan5973"></flowSpan></flowPara><flowPara
+   id="flowSpan5192">emoji's</flowSpan>. </flowPara><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara6045"><flowSpan
    style="font-weight:bold"
@@ -2627,16 +2621,16 @@ TkSuQmCC
              style="font-weight:bold;fill:#ff0000;stroke-width:0.26458332">⚠</tspan></text>
       </g>
       <g
-         transform="matrix(0.62827393,0,0,0.62827393,32.996412,16.633205)"
+         transform="matrix(0.62827393,0,0,0.62827393,33.764476,16.633205)"
          id="g5076"
          style="display:inline;fill:#ff6600">
         <text
            id="text5052"
            y="11.801005"
            x="-20.778507"
-           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:#ffff00;stroke-width:0.26458332;"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:#ffff00;stroke-width:0.26458332"
            xml:space="preserve"><tspan
-             style="fill:#ffff00;stroke-width:0.26458332;stroke:#ffff00;"
+             style="fill:#ffff00;stroke:#ffff00;stroke-width:0.26458332"
              y="11.801005"
              x="-20.778507"
              id="tspan5050"
@@ -2645,9 +2639,9 @@ TkSuQmCC
            id="text5048"
            y="11.975524"
            x="-16.989574"
-           style="font-style:normal;font-weight:normal;font-size:7.83859968px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.19596501;"
+           style="font-style:normal;font-weight:normal;font-size:7.83859968px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.19596501"
            xml:space="preserve"><tspan
-             style="fill:#ff0000;stroke-width:0.19596501;"
+             style="fill:#ff0000;stroke-width:0.19596501"
              y="11.975524"
              x="-16.989574"
              id="tspan5046"
@@ -2751,35 +2745,35 @@ TkSuQmCC
            y="35.466423"
            style="fill:#ffffff;stroke-width:0.08957513">☤</tspan></text>
       <path
-         style="display:inline;fill:#ffff00;stroke:#ffff00;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
-         d="m 21.079098,23.606524 -6.400536,5.056423"
+         style="display:inline;fill:none;stroke:#ffff00;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+         d="m 21.719152,23.478513 -5.568008,0.0063 -1.472582,5.178182"
          id="path6122"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
+         sodipodi:nodetypes="ccc" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:0.85550892px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.02138772"
-         x="13.652243"
-         y="19.943012"
+         x="14.078945"
+         y="20.369715"
          id="text6429"><tspan
            sodipodi:role="line"
            id="tspan6427"
-           x="13.652243"
-           y="19.943012"
+           x="14.078945"
+           y="20.369715"
            style="text-align:center;text-anchor:middle;fill:#ffff00;stroke-width:0.02138772">They will try to own or</tspan><tspan
            sodipodi:role="line"
-           x="13.652243"
-           y="20.798521"
+           x="14.078945"
+           y="21.225224"
            style="text-align:center;text-anchor:middle;fill:#ffff00;stroke-width:0.02138772"
            id="tspan6431">destroy this com-channels,</tspan><tspan
            sodipodi:role="line"
-           x="13.652243"
-           y="21.65403"
+           x="14.078945"
+           y="22.080732"
            style="text-align:center;text-anchor:middle;fill:#ffff00;stroke-width:0.02138772"
            id="tspan6433">they are driven by the dark side</tspan><tspan
            sodipodi:role="line"
-           x="13.652243"
-           y="22.509539"
+           x="14.078945"
+           y="22.936241"
            style="text-align:center;text-anchor:middle;fill:#ffff00;stroke-width:0.02138772"
            id="tspan6435">of the force (forced neurosis)</tspan></text>
     </g>
