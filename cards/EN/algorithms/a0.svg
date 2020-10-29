@@ -65,7 +65,7 @@
      inkscape:cx="58.528945"
      inkscape:cy="187.64161"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer26"
+     inkscape:current-layer="g3145"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
@@ -2964,7 +2964,9 @@ TkSuQmCC
            y="10.167144"
            x="42.524563"
            sodipodi:role="line"
-           id="tspan5030">Satan tries to <tspan
+           id="tspan5030"><tspan
+   style="fill:#ff0000"
+   id="tspan7408">Satan</tspan> tries to <tspan
    style="fill:#ffff00;stroke-width:0.1978865"
    id="tspan5042">censor</tspan></tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.89999998;font-family:GNUTypewriter;-inkscape-font-specification:GNUTypewriter;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.1978865"
