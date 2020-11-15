@@ -18,7 +18,7 @@ killall clipit
 
 if [ "$2" = "A4" ]
 then
-	find ../cards/$1 -name "*.svg" >./A4_$1.txt
+	find ../cards/$1 -name "*.svg" | sort >./A4_$1.txt
 
 	mkdir -p ../assembled/$1/A4/
 	cp ./templateA4.svg ../assembled/$1/A4/
@@ -124,7 +124,7 @@ then
 
 elif [ "$2" = "A6" ]
 then
-	find ../cards/$1 -name "*.svg" >./A6_$1.txt
+	find ../cards/$1 -name "*.svg" |sort >./A6_$1.txt
 
 	mkdir -p ../assembled/$1/A6/
 	cp ./templateA6.svg ../assembled/$1/A6/
@@ -135,7 +135,7 @@ then
 	inkscape &
 	sleep 8
 
-	find ../cards/$1 -name "*.svg" >./A6_$1.txt
+	find ../cards/$1 -name "*.svg" |sort >./A6_$1.txt
 
 	counter=0
 
