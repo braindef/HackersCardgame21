@@ -134,15 +134,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.5537269"
-     inkscape:cx="108.28019"
-     inkscape:cy="147.20362"
+     inkscape:cx="-23.660629"
+     inkscape:cy="144.62916"
      inkscape:document-units="mm"
      inkscape:current-layer="layer26"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1043"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:window-height="1016"
+     inkscape:window-x="3840"
+     inkscape:window-y="27"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
@@ -152,7 +152,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -262,7 +262,19 @@
            x="32.526913"
            y="210.88132" /></flowRegion><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara6089">...</flowPara></flowRoot>    <text
+         id="flowPara6089">- fear</flowPara><flowPara
+         style="text-align:justify;text-anchor:start"
+         id="flowPara1365">- faith</flowPara><flowPara
+         style="text-align:justify;text-anchor:start"
+         id="flowPara1367">- love</flowPara><flowPara
+         style="text-align:justify;text-anchor:start"
+         id="flowPara1369">- shame</flowPara><flowPara
+         style="text-align:justify;text-anchor:start"
+         id="flowPara1373">- hornyness</flowPara><flowPara
+         style="text-align:justify;text-anchor:start"
+         id="flowPara1375">- ...</flowPara><flowPara
+         style="text-align:justify;text-anchor:start"
+         id="flowPara1371" /></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="42.28204"

@@ -134,15 +134,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.5537269"
-     inkscape:cx="108.28019"
-     inkscape:cy="147.20362"
+     inkscape:cx="-23.660629"
+     inkscape:cy="144.62916"
      inkscape:document-units="mm"
      inkscape:current-layer="layer26"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1043"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:window-height="1016"
+     inkscape:window-x="3840"
+     inkscape:window-y="27"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
@@ -152,7 +152,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -251,7 +251,7 @@
        xml:space="preserve"
        id="flowRoot3256"
        style="font-style:normal;font-weight:normal;font-size:8px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,0,2.1166667)"
+       transform="matrix(0.26458333,0,0,0.26458333,0,2.6458334)"
        inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/m15-mod2.png"
        inkscape:export-xdpi="363.92001"
        inkscape:export-ydpi="363.92001"><flowRegion
