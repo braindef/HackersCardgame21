@@ -1,12 +1,12 @@
-# HackersCardgame (v 2.0.0)
+# HackersCardgame (v 2.0.1)
 Normal Tarot lacks Technology, Method and Algorithm Cards. HackersCardgame are less Tarot Cards with magical power but more cards to learn & teach & explain people one can do with modern technology today.
 
 #### ***You should not play any card of normal tarot nor HackersCardgame***. For example if you would play "The Tower" from a normal Tarot, you would probably win against the Crown, but you would also kill an innocent couple. This would mean that you then are a murderer and responsible for the death of two innocent people.
 
 see:
 http://hackerscardgame.ch
-https://0x8.ch/HackersCardgame19
-https://marclandolt.ch/HackersCardgame19
+https://0x8.ch/HackersCardgame21
+https://marclandolt.ch/HackersCardgame21
 
 
 Today this would be logged in NSA/CIA DataRetention and of course also in other BigData Systems and you would then be blackmailed with that murderer the rest of your live. If you though play remember always to also play the **Reversibility Card** so in case something goes wrong nobody dies, which technically would mean **that a medic is around the person you attack**.
