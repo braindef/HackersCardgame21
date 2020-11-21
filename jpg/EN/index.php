@@ -63,7 +63,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <div class="text">
 <h1>Hackers Cardgame</h1>
 <h2>If the System now loops "<font color=tomato class="blink">Your girl is being raped</font>" then you are a targeted individual and under surveillance. If a specific card triggers you also, then it is possible that you must confess first if you did similar things, or satan would like to prevent, that you learn this move, so that he/she can further abuse this move against you. For me as an Autistic i told them that I would commit suicide if they raped me they also know that they would be murderer and they would be in much a worse situation in their Panopticon</b><br><br>
-<a href="https://github.com/braindef/HackersCardgame20"><img src="./README.png"></a>
+<a href="https://github.com/braindef/HackersCardgame21"><img src="./README.png"></a>
 <br><br>
 
 please respect the <a href="../../LICENSE">License</a><br>
@@ -80,12 +80,12 @@ Maybe i should call my paranoja a good situational awareness like Andy does...
 <br>
 <br>
 Source:<br>
-<a href="https://github.com/braindef/HackersCardgame20">https://github.com/braindef/HackersCardgame20</a><br>
+<a href="https://github.com/braindef/HackersCardgame21">https://github.com/braindef/HackersCardgame21</a><br>
 <a href="https://2hmorvqnlhwyrhvl6dwv4jqgnvhlaf2wxnrbmbhrbpmx5x3qqiwprjyd.onion/">https://2hmorvqnlhwyrhvl6dwv4jqgnvhlaf2wxnrbmbhrbpmx5x3qqiwprjyd.onion/</a>
 <br><br>
 
 <h3>Printing Templates:</h3>
-<a href="https://github.com/braindef/HackersCardgame20/tree/master/pdf/EN/A4">Github (PDF)</a>
+<a href="https://github.com/braindef/HackersCardgame21/tree/master/pdf/EN/A4">Github (PDF)</a>
 <br>
 <a href="../../pdf/EN/A4/">local (PDF)</a><br>
 Printing the cards gives you a offline copy, cutting them out makes you focus ~1 Min per card that could be useful for your Learning Curve.

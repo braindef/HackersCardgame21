@@ -23,6 +23,7 @@
 ../png/EN/m155.png
 ../png/EN/m53.png
 ../png/EN/m61.png
+../png/EN/m178.png
 ../png/EN/t14.png
 ../png/EN/m3.png
 ../png/EN/a10.png
@@ -51,6 +52,7 @@
 ../png/EN/m94.png
 ../png/EN/ja1.png
 ../png/EN/philo2.png
+../png/EN/t52e.png
 ../png/EN/m177.png
 ../png/EN/m54.png
 ../png/EN/m123.png
@@ -116,6 +118,7 @@
 ../png/EN/t9.png
 ../png/EN/dc1.png
 ../png/EN/m60.png
+../png/EN/t54.png
 ../png/EN/README.png
 ../png/EN/sk1.png
 ../png/EN/co11.png
@@ -155,6 +158,7 @@
 ../png/EN/mos2.png
 ../png/EN/m25.png
 ../png/EN/ra1.png
+../png/EN/t52b.png
 ../png/EN/m154.png
 ../png/EN/m124.png
 ../png/EN/t27.png
@@ -256,6 +260,7 @@
 ../png/EN/ja6.png
 ../png/EN/m142.png
 ../png/EN/t36.png
+../png/EN/t52c.png
 ../png/EN/m116.png
 ../png/EN/m97.png
 ../png/EN/m120.png
@@ -284,9 +289,11 @@
 ../png/EN/b4.png
 ../png/EN/q1.png
 ../png/EN/ma10.png
+../png/EN/mos8.png
 ../png/EN/m55.png
 ../png/EN/t2.png
 ../png/EN/t45.png
+../png/EN/t52d.png
 ../png/EN/m21b.png
 ../png/EN/p1.png
 ../png/EN/m125.png
@@ -299,6 +306,7 @@
 ../png/EN/mos4.png
 ../png/EN/m176.png
 ../png/EN/mos1.png
+../png/EN/t52a.png
 ../png/EN/t42.png
 ../png/EN/a29.png
 ../png/EN/t12b.png
@@ -348,6 +356,7 @@
 ../png/EN/co1.png
 ../png/EN/mos7.png
 ../png/EN/m47.png
+../png/EN/t53.png
 ../png/EN/a12.png
 ../png/EN/b1.png
 ../png/EN/m52.png
@@ -355,6 +364,7 @@
 ../png/EN/m21.png
 ../png/EN/bio1.png
 ../png/EN/m175.png
+../png/EN/t55.png
 ../png/EN/m104.png
 ../png/EN/m80.png
 ../png/EN/m81.png
