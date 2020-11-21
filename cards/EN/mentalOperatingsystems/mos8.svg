@@ -113,15 +113,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.1292659"
-     inkscape:cx="139.84252"
+     inkscape:cx="52.018825"
      inkscape:cy="198.4252"
      inkscape:document-units="mm"
      inkscape:current-layer="layer26"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1043"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:window-height="1016"
+     inkscape:window-x="3840"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:document-rotation="0" />
   <metadata
@@ -132,7 +132,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -202,7 +202,7 @@
        y="197.85098"
        rx="3.5534737"
        ry="3.8487499"
-       inkscape:export-filename="/home/marc/disk/HackersCardgame9/png/EN/mos7.png"
+       inkscape:export-filename="/home/marc/hcg/HackersCardgame21/png/EN/mos8.png"
        inkscape:export-xdpi="582.27002"
        inkscape:export-ydpi="582.27002" />
   </g>
@@ -232,7 +232,7 @@
        id="flowRoot3256"
        style="font-style:normal;font-weight:normal;font-size:6.66667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.26458333,0,0,0.26458333,-0.52916667,-1.0583334)"
-       inkscape:export-filename="/home/marc/disk/HackersCardgame9/png/EN/mos7.png"
+       inkscape:export-filename="/home/marc/hcg/HackersCardgame21/png/EN/mos8.png"
        inkscape:export-xdpi="582.27002"
        inkscape:export-ydpi="582.27002"><flowRegion
          id="flowRegion3258"><rect
@@ -267,7 +267,7 @@
        x="42.28204"
        y="63.840492"
        id="text3266"
-       inkscape:export-filename="/home/marc/disk/HackersCardgame9/png/EN/mos7.png"
+       inkscape:export-filename="/home/marc/hcg/HackersCardgame21/png/EN/mos8.png"
        inkscape:export-xdpi="582.27002"
        inkscape:export-ydpi="582.27002" />
     <flowRoot
@@ -275,7 +275,7 @@
        id="flowRoot3322"
        style="font-style:normal;font-weight:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.26458333,0,0,0.26458333,3.1805074,1.5288087)"
-       inkscape:export-filename="/home/marc/disk/HackersCardgame9/png/EN/mos7.png"
+       inkscape:export-filename="/home/marc/hcg/HackersCardgame21/png/EN/mos8.png"
        inkscape:export-xdpi="582.27002"
        inkscape:export-ydpi="582.27002"><flowRegion
          id="flowRegion3324"><rect
@@ -291,7 +291,7 @@
        x="24.321527"
        y="57.137398"
        id="text3356"
-       inkscape:export-filename="/home/marc/disk/HackersCardgame9/png/EN/mos7.png"
+       inkscape:export-filename="/home/marc/hcg/HackersCardgame21/png/EN/mos8.png"
        inkscape:export-xdpi="582.27002"
        inkscape:export-ydpi="582.27002"><tspan
          sodipodi:role="line"
@@ -305,7 +305,7 @@
        x="57.402966"
        y="57.300941"
        id="text3356-1"
-       inkscape:export-filename="/home/marc/disk/HackersCardgame9/png/EN/mos7.png"
+       inkscape:export-filename="/home/marc/hcg/HackersCardgame21/png/EN/mos8.png"
        inkscape:export-xdpi="582.27002"
        inkscape:export-ydpi="582.27002"><tspan
          sodipodi:role="line"
@@ -319,7 +319,7 @@
        x="38.606556"
        y="75.860657"
        id="text4322"
-       inkscape:export-filename="/home/marc/disk/HackersCardgame9/png/EN/mos7.png"
+       inkscape:export-filename="/home/marc/hcg/HackersCardgame21/png/EN/mos8.png"
        inkscape:export-xdpi="582.27002"
        inkscape:export-ydpi="582.27002" />
   </g>
@@ -597,7 +597,7 @@
          y="15.646223"
          rx="0"
          ry="0"
-         inkscape:export-filename="/home/marc/disk/HackersCardgame9/png/EN/mos7.png"
+         inkscape:export-filename="/home/marc/hcg/HackersCardgame21/png/EN/mos8.png"
          inkscape:export-xdpi="582.27002"
          inkscape:export-ydpi="582.27002" />
       <text
@@ -607,7 +607,7 @@
          y="78.459244"
          id="text582-3"
          transform="rotate(-55.337688)"
-         inkscape:export-filename="/home/marc/disk/HackersCardgame9/png/EN/mos7.png"
+         inkscape:export-filename="/home/marc/hcg/HackersCardgame21/png/EN/mos8.png"
          inkscape:export-xdpi="582.27002"
          inkscape:export-ydpi="582.27002"><tspan
            sodipodi:role="line"
@@ -624,7 +624,8 @@
          x="5.9495811"
          y="15.512927"
          inkscape:export-xdpi="582.27002"
-         inkscape:export-ydpi="582.27002" />
+         inkscape:export-ydpi="582.27002"
+         inkscape:export-filename="/home/marc/hcg/HackersCardgame21/png/EN/mos8.png" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -640,7 +641,7 @@
          y="15.646222"
          rx="4.4987354"
          ry="0"
-         inkscape:export-filename="/home/marc/disk/HackersCardgame9/png/EN/mos7.png"
+         inkscape:export-filename="/home/marc/hcg/HackersCardgame21/png/EN/mos8.png"
          inkscape:export-xdpi="582.27002"
          inkscape:export-ydpi="582.27002" />
       <text
@@ -649,7 +650,7 @@
          x="64.162033"
          y="53.327488"
          id="text8724"
-         inkscape:export-filename="/home/marc/disk/HackersCardgame9/png/EN/mos7.png"
+         inkscape:export-filename="/home/marc/hcg/HackersCardgame21/png/EN/mos8.png"
          inkscape:export-xdpi="582.27002"
          inkscape:export-ydpi="582.27002"><tspan
            sodipodi:role="line"
@@ -664,7 +665,7 @@
          y="72.203735"
          id="text574"
          transform="rotate(-55.337688)"
-         inkscape:export-filename="/home/marc/disk/HackersCardgame9/png/EN/mos7.png"
+         inkscape:export-filename="/home/marc/hcg/HackersCardgame21/png/EN/mos8.png"
          inkscape:export-xdpi="582.27002"
          inkscape:export-ydpi="582.27002"><tspan
            sodipodi:role="line"
@@ -678,7 +679,7 @@
          x="9.8077641"
          y="54.259716"
          id="text560"
-         inkscape:export-filename="/home/marc/disk/HackersCardgame9/png/EN/mos7.png"
+         inkscape:export-filename="/home/marc/hcg/HackersCardgame21/png/EN/mos8.png"
          inkscape:export-xdpi="582.27002"
          inkscape:export-ydpi="582.27002"><tspan
            sodipodi:role="line"
@@ -703,7 +704,7 @@
        y="197.85098"
        rx="2.6935785"
        ry="2.9227133"
-       inkscape:export-filename="/home/marc/disk/HackersCardgame9/png/EN/mos7.png"
+       inkscape:export-filename="/home/marc/hcg/HackersCardgame21/png/EN/mos8.png"
        inkscape:export-xdpi="582.27002"
        inkscape:export-ydpi="582.27002" />
   </g>
@@ -721,7 +722,7 @@
        y="2.6522903"
        rx="3.9126155"
        ry="4.1126561"
-       inkscape:export-filename="/home/marc/disk/HackersCardgame9/png/EN/mos7.png"
+       inkscape:export-filename="/home/marc/hcg/HackersCardgame21/png/EN/mos8.png"
        inkscape:export-xdpi="582.27002"
        inkscape:export-ydpi="582.27002" />
   </g>
@@ -789,7 +790,7 @@
          width="62.100834"
          id="rect3069"
          style="fill:#00aa88;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-         inkscape:export-filename="/home/marc/disk/HackersCardgame9/png/EN/mos7.png"
+         inkscape:export-filename="/home/marc/hcg/HackersCardgame21/png/EN/mos8.png"
          inkscape:export-xdpi="582.27002"
          inkscape:export-ydpi="582.27002" />
     </g>
@@ -860,7 +861,7 @@
          y="75.207924"
          id="text578"
          transform="rotate(-55.337688)"
-         inkscape:export-filename="/home/marc/disk/HackersCardgame9/png/EN/mos7.png"
+         inkscape:export-filename="/home/marc/hcg/HackersCardgame21/png/EN/mos8.png"
          inkscape:export-xdpi="582.27002"
          inkscape:export-ydpi="582.27002"><tspan
            sodipodi:role="line"
@@ -874,7 +875,7 @@
          x="41.41486"
          style="font-style:normal;font-weight:normal;font-size:3.30717px;line-height:1;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.310047"
          xml:space="preserve"
-         inkscape:export-filename="/home/marc/disk/HackersCardgame9/png/EN/mos7.png"
+         inkscape:export-filename="/home/marc/hcg/HackersCardgame21/png/EN/mos8.png"
          inkscape:export-xdpi="582.27002"
          inkscape:export-ydpi="582.27002"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:GNUTypewriter;-inkscape-font-specification:GNUTypewriter;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.310047"
@@ -2870,7 +2871,7 @@
         <g
            id="g2329"
            transform="matrix(1.5064736,0,0,1.5064736,-7.1587082,15.02918)"
-           inkscape:export-filename="/home/marc/disk/HackersCardgame9/png/EN/mos7.png"
+           inkscape:export-filename="/home/marc/hcg/HackersCardgame21/png/EN/mos8.png"
            inkscape:export-xdpi="582.27002"
            inkscape:export-ydpi="582.27002">
           <rect
@@ -2970,7 +2971,7 @@
            width="9.301053"
            id="rect917-6"
            style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
-           inkscape:export-filename="/home/marc/disk/HackersCardgame9/png/EN/mos7.png"
+           inkscape:export-filename="/home/marc/hcg/HackersCardgame21/png/EN/mos8.png"
            inkscape:export-xdpi="582.27002"
            inkscape:export-ydpi="582.27002" />
       </g>
